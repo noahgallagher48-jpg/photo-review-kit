@@ -2,6 +2,8 @@
 
 A local tool for photographers with a folder of full-size JPEG exports. It writes a CSV inventory and numbered contact sheets. It does not move, rename, edit, delete, upload, or rate the originals.
 
+**[Download the code and skill as a ZIP](https://github.com/noahgallagher48-jpg/photo-review-kit/releases/download/v1.0.0/photo-review-kit.zip)**
+
 The Python script is the **code**. [`photo-review/SKILL.md`](photo-review/SKILL.md) is an optional **skill**: instructions for an AI assistant to run that same script, explain the report, and keep the photographer in charge of the edit. The script works without an AI assistant or an account.
 
 The code and skill are offered under the [MIT License](LICENSE).
